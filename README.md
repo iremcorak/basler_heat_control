@@ -4,4 +4,4 @@ This project provides image acquisition, image saving and camera temperature con
 
 # Installation
 
-```pip install pypylon```
+    pip install pypylon
